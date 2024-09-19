@@ -3,6 +3,10 @@
 This project implements various methods to induce and study hallucinations in Automatic Speech Recognition (ASR) systems. It provides tools for perturbing audio data and analysing the resulting effects on ASR output.
 This repository forms part of my dissertation project for the MSc in Speech and Language Processing at the University of Edinburgh, UK.
 
+To run inference on my trained models, download them here: 
+
+https://huggingface.co/collections/zbrunner/hallucinations-in-asr-systems-66e6f9c00ea356700d326d19
+
 ## Features
 - Multiple perturbation methods including:
   - Initial noise injection
