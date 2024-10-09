@@ -1,4 +1,4 @@
-# Hallucinations in Automatic Speech Recognition
+# Hallucinogen: Elicit Hallucinations in Automatic Speech Recognition
 
 This project implements various methods to induce and study hallucinations in Automatic Speech Recognition (ASR) systems. It provides tools for perturbing audio data and analysing the resulting effects on ASR output.
 This repository forms part of my dissertation project for the MSc in Speech and Language Processing at the University of Edinburgh, UK.
